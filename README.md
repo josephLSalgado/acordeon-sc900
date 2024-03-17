@@ -103,3 +103,8 @@ _________
 TBA
 
 Hecho con Amor 💖 desde CDMX por [@brujeriatech](https://www.instagram.com/brujeriatech/)
+
+## LINKS
+
+- [Examen SC-900](https://learn.microsoft.com/es-es/credentials/certifications/exams/sc-900/)
+- [Descripción de los conceptos de seguridad, cumplimiento e identidad](https://learn.microsoft.com/es-es/training/paths/describe-concepts-of-security-compliance-identity/)
