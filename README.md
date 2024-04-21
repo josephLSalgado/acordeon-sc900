@@ -108,3 +108,5 @@ Hecho con Amor 💖 desde CDMX por [@brujeriatech](https://www.instagram.com/bru
 
 - [Examen SC-900](https://learn.microsoft.com/es-es/credentials/certifications/exams/sc-900/)
 - [Descripción de los conceptos de seguridad, cumplimiento e identidad](https://learn.microsoft.com/es-es/training/paths/describe-concepts-of-security-compliance-identity/)
+- [Aquí me quedé](https://learn.microsoft.com/es-mx/training/modules/describe-identity-principles-concepts/3-define-identity-primary-security-perimeter)
+- [Preguntas y respuestas SC-900](https://www.canva.com/design/DAF_in8gOrI/CJQI0USLSN0_DflOrctKZQ/edit?fbclid=IwAR0IGynDIs_lavKuvSe2ivfEJTqwYFN944QopwQjdI2mKXMBXTyZD_JBZLY)
